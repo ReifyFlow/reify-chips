@@ -52,4 +52,4 @@ ST/
 - `python tools/validate_pack.py`: 提交前请运行此脚本，检查 JSON 格式是否合法。
 
 ---
-*Part of the ReifyFlow Ecosystem.*
+*Part of the ReifyFlow.*
